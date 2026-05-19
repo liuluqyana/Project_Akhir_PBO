@@ -1,6 +1,6 @@
 # Projek Akhir Praktikum PBO
 ## Tema Aplikasi : Tiket Pesawat
 ## Anggota : 
-- Kelas Praktikum IF-E
-1. Akbar Ariffianto / 123220004
-2. Wijdan Akhmad S / 123220010
+- Kelas Praktikum IF-G
+1. Syahnita / 123240006
+2. Liu Luqyana / 123240223
