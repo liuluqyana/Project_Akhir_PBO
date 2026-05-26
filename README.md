@@ -1,0 +1,6 @@
+PROJECT AKHIR PRAKTIKUM PBO
+- TIKET PESAWAT -
+  
+Anggota Kelompok :
+1. Syahnita - 123240006
+2. Liu Luqyana - 123240223
