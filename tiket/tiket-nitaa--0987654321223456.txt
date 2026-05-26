@@ -1,0 +1,22 @@
+==========================================
+          TIKET PESAWAT                   
+==========================================
+--- Data Penumpang ---
+NIK          : 0987654321223456
+Nama         : nitaa
+No. HP       : 09864382632
+Jumlah Kursi : 7
+------------------------------------------
+--- Data Penerbangan ---
+Kode Jadwal       : JD05
+Maskapai          : Garuda Indonesia
+Kota Asal         : Makasar
+Kota Tujuan       : Jogja
+Jam Keberangkatan : 06:00
+Jam Kedatangan    : 08:00
+Harga/Kursi       : Rp 500
+------------------------------------------
+Total Harga  : Rp 3500
+==========================================
+       SELAMAT TERBANG, SEMOGA SELAMAT!     
+==========================================

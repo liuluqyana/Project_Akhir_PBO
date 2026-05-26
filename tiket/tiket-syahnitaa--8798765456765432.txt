@@ -1,0 +1,22 @@
+==========================================
+          TIKET PESAWAT                   
+==========================================
+--- Data Penumpang ---
+NIK          : 8798765456765432
+Nama         : syahnitaa
+No. HP       : 0876548037034
+Jumlah Kursi : 9
+------------------------------------------
+--- Data Penerbangan ---
+Kode Jadwal       : JD04
+Maskapai          : Garuda Indonesia
+Kota Asal         : Jakarta
+Kota Tujuan       : Jogja
+Jam Keberangkatan : 11:30
+Jam Kedatangan    : 10:30
+Harga/Kursi       : Rp 450000
+------------------------------------------
+Total Harga  : Rp 4050000
+==========================================
+     SELAMAT TERBANG, SEMOGA SELAMAT!     
+==========================================

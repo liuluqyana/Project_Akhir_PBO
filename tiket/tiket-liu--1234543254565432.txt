@@ -1,0 +1,22 @@
+==========================================
+          TIKET PESAWAT                   
+==========================================
+--- Data Penumpang ---
+NIK          : 1234543254565432
+Nama         : liu
+No. HP       : 0865857432
+Jumlah Kursi : 3
+------------------------------------------
+--- Data Penerbangan ---
+Kode Jadwal       : JD06
+Maskapai          : Garuda Indonesia
+Kota Asal         : Semarang
+Kota Tujuan       : Jogja
+Jam Keberangkatan : 09:00
+Jam Kedatangan    : 09:30
+Harga/Kursi       : Rp 1000
+------------------------------------------
+Total Harga  : Rp 3000
+==========================================
+     SELAMAT TERBANG, SEMOGA SELAMAT!     
+==========================================

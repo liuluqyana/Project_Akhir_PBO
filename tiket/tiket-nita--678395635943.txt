@@ -1,0 +1,22 @@
+==========================================
+          TIKET PESAWAT                   
+==========================================
+--- Data Penumpang ---
+NIK          : 678395635943
+Nama         : nita
+No. HP       : 09754363764
+Jumlah Kursi : 2
+------------------------------------------
+--- Data Penerbangan ---
+Kode Jadwal       : JD03
+Maskapai          : Lion Air
+Kota Asal         : Jakarta
+Kota Tujuan       : Bali
+Jam Keberangkatan : 20:00
+Jam Kedatangan    : 18:00
+Harga/Kursi       : Rp 500000
+------------------------------------------
+Total Harga  : Rp 1000000
+==========================================
+     SELAMAT TERBANG, SEMOGA SELAMAT!     
+==========================================
