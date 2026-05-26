@@ -1,0 +1,8 @@
+# Mengabaikan folder sampah bawaan NetBeans
+/nbproject/
+/build/
+/dist/
+/tiket/
+*.zip
+*.class
+private/
