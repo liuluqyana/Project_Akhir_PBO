@@ -1,5 +1,5 @@
 PROJECT AKHIR PRAKTIKUM PBO
-- TIKET PESAWAT -
+= TIKET PESAWAT =
   
 Anggota Kelompok :
 1. Syahnita - 123240006
